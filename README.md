@@ -48,3 +48,21 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
+
+
+
+
+
+
+<!-- to create the app -> npx create-expo-app@latest -->
+
+<!-- to start the app -> npx expo start, this will start the metro bundler that ships with expo. -->
+
+<!-- tsconfig.json -> contains all the rules that typescript will use to enforce type safety throughout the project -->
+
+<!-- app.json -> defines the behaviuor of the app. 
+name -> the name of the app 
+slug -> used for finding the url if we are running the app on web. -->
